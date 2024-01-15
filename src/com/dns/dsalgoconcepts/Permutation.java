@@ -1,5 +1,16 @@
 package com.dns.dsalgoconcepts;
+/**
+ * 
+ * Classic exhaustive permutation pattern
+ * 
+ * 
+ * Time Complexity:  O(N!) since there are N! possible permutations, and the algorithm needs to explore each one.
+   
+   Space Complexity: O(N)
+   The maximum depth of the recursion is N, corresponding to the number of elements to be permuted.
+   The space complexity is O(N) due to the recursive call stack.
 
+ */
 public class Permutation {
 
 	public static void main(String[] args) {

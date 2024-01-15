@@ -1,5 +1,17 @@
 package com.dns.dsalgoconcepts;
 
+/**
+ * Classic exhaustive subset pattern
+ * 
+ * Time Complexity: 2^N
+   There are 2^N possible subsets for a set of N elements (including the empty set and the set itself).
+ 	
+   Space Complexity: O(N)
+   The space complexity is O(N) due to the recursive call stack.	
+ 
+ * 
+ * 
+ */
 public class Subsets {
 
 	public static void main(String[] args) {

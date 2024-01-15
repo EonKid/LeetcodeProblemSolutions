@@ -1,4 +1,4 @@
-package com.dns.easy;
+package com.dns.leetcode.easy;
 
 import java.util.HashMap;
 import java.util.Map;

@@ -1,4 +1,4 @@
-package com.dns.dsalgoconcepts;
+package com.dns.dsalgo.recursionbacktracking;
 
 /**
  * Classic exhaustive subset pattern

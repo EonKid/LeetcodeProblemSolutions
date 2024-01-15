@@ -1,4 +1,4 @@
-package com.dns.easy;
+package com.dns.leetcode.easy;
 
 /**
  * https://leetcode.com/problems/palindrome-number/description/
